@@ -18,8 +18,7 @@ The Ceasar Route send you to the Ceasar Page, with the encode and decode data op
 The Vigenere route will send to the Vigenere page and encode and decode using the vigenere cipher
 
 ## `/api` Route 
-It only responds to the path 
-
+It only responds to the path:
 `/api/:cipher/:method/:input/:shift`
 
 - Cipher -> The Cipher Method (Ceasar/Vigenere)
